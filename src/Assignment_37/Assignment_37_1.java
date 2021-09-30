@@ -1,22 +1,16 @@
 package Assignment_37;
 
-/*WAP to find a second largest word.
-Input: Welcome to the family
-Output: family*/
+public class Assignment_37_1 {
 
-public class Assignment_37 {
-	
 	String getSecondLargestWord(String input) {
 		String secLargestWord = "", word = "";
-		int temp = 0;
 		String arr[] = input.split(" ");
 		for(int index=0; index<arr.length; index++) {
-			if(word.length()<arr[index].length()) {
+			if(word.length()<arr[index].length() || word.length()==arr[index].length()) {
 				word = arr[index];
-				temp = index;
+				arr[index] = "";
 			}
 		}
-		arr[temp] = "";
 		for(int index=0; index<arr.length; index++) {
 			if(secLargestWord.length()<arr[index].length()) {
 				secLargestWord = arr[index];
@@ -26,9 +20,10 @@ public class Assignment_37 {
 	}
 	
 	public static void main(String[] args) {
-		Assignment_37 assignment_37 = new Assignment_37();
-		String str = "Welcome to the family";
+		Assignment_37_1 assignment_37_1 = new Assignment_37_1();
+		//String str = "what is your name";
+		String str = "welcome to our familya";
 		System.out.println("Input String: " + str);
-		System.out.println("Second Largest Word: " + assignment_37.getSecondLargestWord(str));
+		System.out.println("Second Largest Word: " + assignment_37_1.getSecondLargestWord(str));
 	}
 }
