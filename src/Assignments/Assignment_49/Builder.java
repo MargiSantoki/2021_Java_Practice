@@ -1,4 +1,4 @@
-package margi.Assignment_49;
+package Assignments.Assignment_49;
 
 /*[hashCode & Equals]
 Create a class call builder.

@@ -1,4 +1,4 @@
-package margi.CodingTest;
+package Assignments.CodingTest;
 
 public class CodingTest_8 {
 	

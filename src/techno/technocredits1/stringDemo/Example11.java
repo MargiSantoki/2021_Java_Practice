@@ -1,4 +1,4 @@
-package technocredits1.stringDemo;
+package techno.technocredits1.stringDemo;
 
 public class Example11 {
 

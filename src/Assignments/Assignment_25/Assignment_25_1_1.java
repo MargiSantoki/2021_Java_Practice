@@ -1,4 +1,4 @@
-package Assignment_25;
+package Assignments.Assignment_25;
 
 public class Assignment_25_1_1 {
 	int getCount(String input){

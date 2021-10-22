@@ -1,4 +1,4 @@
-package margi.Assignment_39;
+package Assignments.Assignment_39;
 
 /*Print first N elements of the Fibonacci series. 
 n -> 8

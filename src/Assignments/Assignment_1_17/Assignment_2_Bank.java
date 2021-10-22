@@ -1,4 +1,4 @@
-package Assignment_1_17;
+package Assignments.Assignment_1_17;
 
 class Assignment_2_Bank{
 	int currentBalance = 10000;

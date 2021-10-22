@@ -1,4 +1,4 @@
-package margi.Assignment_40;
+package Assignments.Assignment_40;
 
 /*Program  that requires exception handling ...
 String str = "I have 5 years and 3 months of exp";

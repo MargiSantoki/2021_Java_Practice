@@ -1,4 +1,4 @@
-package technocredits1.exceptionDemo;
+package techno.technocredits1.exceptionDemo;
 
 public class Example9 {
 

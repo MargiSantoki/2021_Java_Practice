@@ -1,4 +1,4 @@
-package margi.Assignment_41;
+package Assignments.Assignment_41;
 
 /*Write a code to print below pattern.
 *

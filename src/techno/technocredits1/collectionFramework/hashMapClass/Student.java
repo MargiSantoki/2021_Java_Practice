@@ -1,4 +1,4 @@
-package technocredits1.collectionFramework.hashMapClass;
+package techno.technocredits1.collectionFramework.hashMapClass;
 
 public class Student {
 

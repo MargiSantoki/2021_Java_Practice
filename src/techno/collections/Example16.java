@@ -1,4 +1,4 @@
-package technocredits1.collectionDemo;
+package techno.collections;
 
 import java.util.ArrayList;
 

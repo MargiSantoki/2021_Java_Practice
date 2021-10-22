@@ -1,4 +1,4 @@
-package technocredits1.stringclass_methods;
+package techno.technocredits1.stringclass_methods;
 
 public class Student extends Object {
 

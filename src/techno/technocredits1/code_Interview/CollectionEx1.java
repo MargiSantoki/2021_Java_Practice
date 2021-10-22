@@ -1,4 +1,4 @@
-package technocredits1.code_Interview;
+package techno.technocredits1.code_Interview;
 
 import java.util.HashMap;
 import java.util.HashSet;

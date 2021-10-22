@@ -1,4 +1,4 @@
-package technocredits1.loopDemo;
+package techno.technocredits1.loopDemo;
 
 public class Example2 {
 

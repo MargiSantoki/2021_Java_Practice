@@ -1,4 +1,4 @@
-package technocredits1.throwthrowsdemo;
+package techno.technocredits1.throwthrowsdemo;
 
 import java.beans.IntrospectionException;
 import java.io.File;

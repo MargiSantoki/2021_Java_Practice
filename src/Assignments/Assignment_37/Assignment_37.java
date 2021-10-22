@@ -1,4 +1,4 @@
-package Assignment_37;
+package Assignments.Assignment_37;
 
 /*WAP to find a second largest word.
 Input: Welcome to the family

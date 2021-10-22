@@ -1,4 +1,4 @@
-package margi.Assignment_36;
+package Assignments.Assignment_36;
 
 /*WAP to swap vowel in String mean last first vowel should replace
 first vowel in String and vice verse.

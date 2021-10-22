@@ -1,4 +1,4 @@
-package Assignment_22;
+package Assignments.Assignment_22;
 
 public class Assignment_22_1 {
 	int getTotalDigits(String input) {

@@ -1,9 +1,10 @@
-package technocredits1.oops;
+package techno.technocredits1.oops;
 
 import java.io.FileNotFoundException;
+import techno.technocredits1.exception.AgeNotValidException;
+
 import java.io.IOException;
 
-import technocredits1.exception.AgeNotValidException;
 
 public class A {
 

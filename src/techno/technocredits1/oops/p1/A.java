@@ -1,4 +1,4 @@
-package technocredits1.oops.p1;
+package techno.technocredits1.oops.p1;
 
 public class A{
 	int x = 10;

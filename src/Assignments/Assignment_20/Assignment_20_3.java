@@ -1,4 +1,4 @@
-package margi.Assignment_20;
+package Assignments.Assignment_20;
 
 import java.util.Scanner;
 

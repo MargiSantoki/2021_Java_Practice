@@ -1,4 +1,4 @@
-package technocredits1.interviewQue;
+package techno.technocredits1.interviewQue;
 
 public class Tricky {
 	

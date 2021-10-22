@@ -1,4 +1,4 @@
-package margi.Assignment_48;
+package Assignments.Assignment_48;
 
 import java.util.LinkedHashMap;
 

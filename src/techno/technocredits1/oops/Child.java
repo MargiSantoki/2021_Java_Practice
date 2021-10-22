@@ -1,4 +1,4 @@
-package technocredits1.oops;
+package techno.technocredits1.oops;
 
 public class Child extends Parent{
 

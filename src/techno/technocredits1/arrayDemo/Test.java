@@ -1,4 +1,4 @@
-package technocredits1.arrayDemo;
+package techno.technocredits1.arrayDemo;
 
 public class Test {
 	public static void main(String[] args) {

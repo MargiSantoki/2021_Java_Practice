@@ -1,4 +1,4 @@
-package margi.Assignment_46;
+package Assignments.Assignment_46;
 
 import java.util.LinkedList;
 

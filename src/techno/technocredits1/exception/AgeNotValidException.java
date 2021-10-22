@@ -1,4 +1,4 @@
-package technocredits1.exception;
+package techno.technocredits1.exception;
 
 public class AgeNotValidException extends Exception{
 	

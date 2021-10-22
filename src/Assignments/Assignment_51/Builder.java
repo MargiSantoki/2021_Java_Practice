@@ -1,4 +1,4 @@
-package margi.Assignment_51;
+package Assignments.Assignment_51;
 
 /*[Comparator]
 Write a method to sort builder object based on revenue (ascending) and totalCompletedProject;

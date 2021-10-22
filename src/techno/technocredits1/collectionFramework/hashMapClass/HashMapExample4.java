@@ -1,4 +1,4 @@
-package technocredits1.collectionFramework.hashMapClass;
+package techno.technocredits1.collectionFramework.hashMapClass;
 
 import java.util.HashMap;
 import java.util.Map;

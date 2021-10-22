@@ -1,4 +1,4 @@
-package technocredits1.collectionFramework.linkedHashMapClass;
+package techno.technocredits1.collectionFramework.linkedHashMapClass;
 
 import java.util.ArrayList;
 import java.util.Collection;

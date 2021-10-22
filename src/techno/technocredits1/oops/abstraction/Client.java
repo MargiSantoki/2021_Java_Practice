@@ -1,4 +1,4 @@
-package technocredits1.oops.abstraction;
+package techno.technocredits1.oops.abstraction;
 
  abstract public class Client implements A{
 

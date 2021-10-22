@@ -1,4 +1,4 @@
-package technocredits1.collectionDemo;
+package techno.technocredits1.collectionDemo;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

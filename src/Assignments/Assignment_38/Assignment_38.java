@@ -1,4 +1,4 @@
-package margi.Assignment_38;
+package Assignments.Assignment_38;
 
 /*find the substring starting from last hi to first Globant.  
 String str = "Hi Hello Techno Hi Credits Hello GM Neha Globant Aashvi Globant";

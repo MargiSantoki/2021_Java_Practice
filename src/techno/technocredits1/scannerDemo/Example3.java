@@ -1,4 +1,4 @@
-package technocredits1.scannerDemo;
+package techno.technocredits1.scannerDemo;
 
 import java.util.Scanner;
 

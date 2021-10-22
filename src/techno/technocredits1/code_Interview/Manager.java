@@ -1,4 +1,4 @@
-package technocredits1.code_Interview;
+package techno.technocredits1.code_Interview;
 
 public class Manager {
 	static int count = 0;

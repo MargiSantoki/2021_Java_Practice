@@ -1,4 +1,4 @@
-package Assignment_32;
+package Assignments.Assignment_32;
 
 public class Assignment_32_1 {
 	

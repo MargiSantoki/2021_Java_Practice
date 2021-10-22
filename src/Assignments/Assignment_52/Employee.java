@@ -1,4 +1,4 @@
-package Assignment_52;
+package Assignments.Assignment_52;
 
 /*[Nested Comparision - Comparable -Asc]
 Create a class Called Employee.

@@ -1,4 +1,4 @@
-package margi.Assignment_51;
+package Assignments.Assignment_51;
 
 import java.util.ArrayList;
 import java.util.Collections;

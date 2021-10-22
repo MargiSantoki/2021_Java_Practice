@@ -1,4 +1,4 @@
-package margi.Assignment_24;
+package Assignments.Assignment_24;
 
 public class Assignment_24_2 {
 

@@ -1,4 +1,4 @@
-package margi;
+package Assignments.Assignment_1_17;
 
 class Assignment_3_P1_DayIndex{
 	

@@ -1,4 +1,4 @@
-package technocredits1.exceptionDemo;
+package techno.technocredits1.exceptionDemo;
 
 import java.io.File;
 import java.io.FileInputStream;

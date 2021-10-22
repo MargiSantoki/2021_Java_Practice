@@ -1,4 +1,4 @@
-package technocredits1.singleton;
+package techno.technocredits1.singleton;
 
 //Eager Init.
 public class Connection {

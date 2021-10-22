@@ -1,4 +1,4 @@
-package margi.Assignment_35;
+package Assignments.Assignment_35;
 
 public class Assignment_35 {
 	/*Write a program to verify given number plat number is valid or not.

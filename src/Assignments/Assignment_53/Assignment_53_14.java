@@ -1,4 +1,4 @@
-package margi.Assignment_53;
+package Assignments.Assignment_53;
 
 /*WAP to print below pattern
 A 

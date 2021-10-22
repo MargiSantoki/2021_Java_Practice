@@ -1,4 +1,4 @@
-package technocredits1.throwthrowsdemo;
+package techno.technocredits1.throwthrowsdemo;
 
 public class A {
 

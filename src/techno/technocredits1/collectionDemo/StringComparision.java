@@ -1,4 +1,4 @@
-package technocredits1.collectionDemo;
+package techno.technocredits1.collectionDemo;
 
 public class StringComparision {
 

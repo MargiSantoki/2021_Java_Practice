@@ -1,4 +1,4 @@
-package margi.Assignment_42;
+package Assignments.Assignment_42;
 
 /*Remove all occurrence of duplicate character from given string.
 input : "technocredits"

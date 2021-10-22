@@ -1,4 +1,4 @@
-package margi.Assignment_43;
+package Assignments.Assignment_43;
 
 //get string length without using length as a method and property
 public class Assignment_43 {

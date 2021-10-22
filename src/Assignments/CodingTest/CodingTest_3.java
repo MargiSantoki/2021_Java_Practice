@@ -1,4 +1,4 @@
-package margi.CodingTest;
+package Assignments.CodingTest;
 
 import java.util.Arrays;
 

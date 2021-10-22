@@ -1,4 +1,4 @@
-package technocredits1.multithreading;
+package techno.technocredits1.multithreading;
 
 public class Employee2 extends Thread{
 

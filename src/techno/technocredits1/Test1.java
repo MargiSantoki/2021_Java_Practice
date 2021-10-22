@@ -1,4 +1,4 @@
-package technocredits1;
+package techno.technocredits1;
 class Test1{
 	final double d;
 	

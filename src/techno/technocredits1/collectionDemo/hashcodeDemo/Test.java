@@ -1,4 +1,4 @@
-package technocredits1.collectionDemo.hashcodeDemo;
+package techno.technocredits1.collectionDemo.hashcodeDemo;
 
 public class Test {
 

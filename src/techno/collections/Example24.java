@@ -1,4 +1,4 @@
-package technocredits1.collectionDemo;
+package techno.collections;
 
 import java.util.TreeSet;
 
@@ -9,7 +9,7 @@ public class Example24 {
 		Object obj2 = 123;
 		Object obj3 = 12;
 		
-		TreeSet<Object> ts = new TreeSet();
+		TreeSet<Object> ts = new TreeSet<>();
 		ts.add(obj1);
 		ts.add(obj2);
 		ts.add(obj3);

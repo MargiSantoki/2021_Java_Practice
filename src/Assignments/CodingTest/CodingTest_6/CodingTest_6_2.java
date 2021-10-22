@@ -1,4 +1,4 @@
-package CodingTest.CodingTest_6;
+package Assignments.CodingTest.CodingTest_6;
 
 public class CodingTest_6_2 {
 

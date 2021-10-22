@@ -1,4 +1,4 @@
-package margi.Assignment_47;
+package Assignments.Assignment_47;
 
 import java.util.HashMap;
 

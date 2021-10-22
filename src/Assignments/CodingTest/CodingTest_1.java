@@ -1,4 +1,4 @@
-
+package Assignments.CodingTest;
 public class CodingTest_1 {
 
 	int getSum(String[] input) {

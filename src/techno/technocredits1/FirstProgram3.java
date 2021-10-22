@@ -1,4 +1,4 @@
-package technocredits1;
+package techno.technocredits1;
 public class FirstProgram3 {
 
 	public static void main(String[] args) {

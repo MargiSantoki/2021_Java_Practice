@@ -1,4 +1,4 @@
-package Assignment_1_17;
+package Assignments.Assignment_1_17;
 
 public class Assignment_16 {
 

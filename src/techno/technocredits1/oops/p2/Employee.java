@@ -1,6 +1,6 @@
-package technocredits1.oops.p2;
+package techno.technocredits1.oops.p2;
 
-import technocredits1.oops.p1.Manager;
+import techno.technocredits1.oops.p1.Manager;
 
 public class Employee extends Manager{
 
